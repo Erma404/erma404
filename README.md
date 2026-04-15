@@ -1,14 +1,14 @@
 ### Hi there, I'm Ernestine - aka [erma404][website] 👋
 
-[![Website](http://ernestinemtb.com/wp-content/uploads/2020/08/Ernestine-logo-small.png)](https://ernestinemtb.com)
+[![Website](http://ernestinemtb.com/wp-content/uploads/2020/08/Ernestine-logo-small.png)](https://ernestinematjabo.com)
 
 
 ## I'm a Developer, Project Manager and Food Lover!
 
-- 🔭 I’m currently working on a [Python Face Recognition][website]!
-- 🌱 I’m currently learning everything espacially python 🤣
+- 🔭 I’m currently working on a [AI][website]!
+- 🌱 I’m currently learning everything espacially Claude code 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to more projects & being a Digital Project Manager
+- 🥅 2026 Goals: Contribute more to more projects & being a Digital Project Manager
 - ⚡ Fun fact: I love to play tennis and rock music but also jazz 
 
 ### Soundcloud Playing 🎧
@@ -40,14 +40,14 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Work From Home is dead, long live Work From Anywhere](https://ernestinemtb.com/work-from-home-is-dead-long-live-work-from-anywhere/)
-- [How to improve access to education in Africa thanks to Digital Learning?](https://ernestinemtb.com/how-to-improve-access-to-education-in-africa-thanks-to-digital-learning/)
-<!-- BLOG-POST-LIST:END -->
+<!-- PROJECTS-LIST:START -->
+- [Plumber website - Paris Tout Services](https://paristoutservices.com/)/)
+- [Certiphy - Content Creators sertification ](https://discover.certiphy.io/))
+<!-- PROJECTS-LIST:END -->
 
-➡️ [more blog posts...](https://ernestinemtb.com)
+➡️ [contact me...](https://ernestinematjabo.com)
 
 ---
 

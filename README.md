@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ernestinemtb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ernestinematjabo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ernestine matjabo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ernestine matjabo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ernestine_mtb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -53,7 +53,7 @@
 
 
 
-[website]: https://ernestinemtb.com
+[website]: https://ernestinematjabo.com
 [instagram]: https://instagram.com/ernestine_mtb
 [linkedin]: https://linkedin.com/in/ernestine-matjabo
 [youube]: https://youtube.com/ernestine-matjabo
